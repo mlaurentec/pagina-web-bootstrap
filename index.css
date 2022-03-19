@@ -1,6 +1,11 @@
 /* #footer{
     background-color: #0073b7;
 } */
+
+.text-platzi {
+  color: aqua !important;
+}
+
 #footer{
     background: linear-gradient(0deg,#1c3643,#273b47 25%,#1e5372);
   }
@@ -8,3 +13,7 @@
   #footer a{
     color: #FFFFFF;
   }
+  
+#header img{
+  width: 80px;
+}
